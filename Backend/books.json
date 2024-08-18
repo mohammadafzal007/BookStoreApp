@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "The Joy of Movies",
+        "category": "Entertainment",
+        "title": "An Exploration of Cinematic Masterpieces",
+        "price": 0,
+        "type": "Free",
+        "image": "https://images.pexels.com/photos/274937/pexels-photo-274937.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Mastering IT",
+        "category": "IT",
+        "title": "A Comprehensive Guide to Information Technology",
+        "price": 29.99,
+        "type": "Premium",
+        "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Cinema Classics",
+        "category": "Movies",
+        "title": "A Journey Through Iconic Films",
+        "price": 0,
+        "type": "Free",
+        "image": "https://images.pexels.com/photos/566285/pexels-photo-566285.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Path to Enlightenment",
+        "category": "Spiritual",
+        "title": "A Guide to Spiritual Growth",
+        "price": 14.99,
+        "type": "Premium",
+        "image": "https://images.pexels.com/photos/2046516/pexels-photo-2046516.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Understanding Religion",
+        "category": "Religious",
+        "title": "An Insight into Major Religions",
+        "price": 0,
+        "type": "Free",
+        "image": "https://images.pexels.com/photos/235848/pexels-photo-235848.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "The Tech Revolution",
+        "category": "IT",
+        "title": "How Technology is Shaping the Future",
+        "price": 19.99,
+        "type": "Premium",
+        "image": "https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Spiritual Awakening",
+        "category": "Spiritual",
+        "title": "Discovering Inner Peace",
+        "price": 0,
+        "type": "Free",
+        "image": "https://images.pexels.com/photos/5417643/pexels-photo-5417643.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Entertainment Now",
+        "category": "Entertainment",
+        "title": "The Latest Trends in Entertainment",
+        "price": 5.99,
+        "type": "Premium",
+        "image": "https://images.pexels.com/photos/274937/pexels-photo-274937.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Religion in the Modern World",
+        "category": "Religious",
+        "title": "Challenges and Changes",
+        "price": 0,
+        "type": "Free",
+        "image": "https://images.pexels.com/photos/235848/pexels-photo-235848.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Coding for Beginners",
+        "category": "IT",
+        "title": "A Starter's Guide to Programming",
+        "price": 12.99,
+        "type": "Premium",
+        "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg"
+    },
+    {
+        "id": 11,
+        "name": "Movie Magic",
+        "category": "Movies",
+        "title": "Behind the Scenes of Iconic Films",
+        "price": 0,
+        "type": "Free",
+        "image": "https://images.pexels.com/photos/566285/pexels-photo-566285.jpeg"
+    },
+    {
+        "id": 12,
+        "name": "Tech Giants",
+        "category": "IT",
+        "title": "The Rise of Silicon Valley",
+        "price": 15.99,
+        "type": "Premium",
+        "image": "https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg"
+    },
+    {
+        "id": 13,
+        "name": "Spiritual Journeys",
+        "category": "Spiritual",
+        "title": "Stories of Transformation",
+        "price": 0,
+        "type": "Free",
+        "image": "https://images.pexels.com/photos/5417643/pexels-photo-5417643.jpeg"
+    },
+    {
+        "id": 14,
+        "name": "Film Buff's Guide",
+        "category": "Movies",
+        "title": "Must-See Movies of All Time",
+        "price": 6.99,
+        "type": "Premium",
+        "image": "https://images.pexels.com/photos/566285/pexels-photo-566285.jpeg"
+    },
+    {
+        "id": 15,
+        "name": "Digital Transformation",
+        "category": "IT",
+        "title": "Embracing the Future of Business",
+        "price": 18.99,
+        "type": "Premium",
+        "image": "https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg"
+    },
+    {
+        "id": 16,
+        "name": "The Art of Meditation",
+        "category": "Spiritual",
+        "title": "Techniques for Mindfulness",
+        "price": 0,
+        "type": "Free",
+        "image": "https://images.pexels.com/photos/2046516/pexels-photo-2046516.jpeg"
+    },
+    {
+        "id": 17,
+        "name": "Modern Entertainment",
+        "category": "Entertainment",
+        "title": "How Media is Evolving",
+        "price": 9.99,
+        "type": "Premium",
+        "image": "https://images.pexels.com/photos/274937/pexels-photo-274937.jpeg"
+    },
+    {
+        "id": 18,
+        "name": "The Future of Religion",
+        "category": "Religious",
+        "title": "Faith in the 21st Century",
+        "price": 0,
+        "type": "Free",
+        "image": "https://images.pexels.com/photos/235848/pexels-photo-235848.jpeg"
+    },
+    {
+        "id": 19,
+        "name": "Cybersecurity Essentials",
+        "category": "IT",
+        "title": "Protecting Your Digital Life",
+        "price": 14.99,
+        "type": "Premium",
+        "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg"
+    },
+    {
+        "id": 20,
+        "name": "The Spiritual Path",
+        "category": "Spiritual",
+        "title": "A Journey to Enlightenment",
+        "price": 0,
+        "type": "Free",
+        "image": "https://images.pexels.com/photos/5417643/pexels-photo-5417643.jpeg"
+    }
+]
